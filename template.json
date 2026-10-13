@@ -1,0 +1,104 @@
+{
+  "format": "motiongit.discovery/1",
+  "repositoryId": "551805",
+  "templateId": 622,
+  "owner": "prism-studio",
+  "slug": "visual-art-h-kaleido",
+  "website": "https://motiongit.com/@prism-studio/visual-art-h-kaleido",
+  "checkedAt": "2026-10-13",
+  "availability": "download-available",
+  "title": {
+    "en": "Mirror Kaleidoscope · Photo Motion",
+    "zh": "镜像万花筒 · 照片变幻"
+  },
+  "summary": {
+    "en": "Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals.",
+    "zh": "将两张照片镜像成旋转的十二分段万花筒，经扩张圆环转场再展开原图，适合视觉主题片。"
+  },
+  "subtitle": {
+    "en": "Mirror Kaleidoscope · Photo Motion",
+    "zh": "镜像万花筒 · 照片变幻"
+  },
+  "category": {
+    "en": "art",
+    "zh": "art"
+  },
+  "ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "durationSeconds": 13,
+  "demo": {
+    "en": "https://media.openaicut.com/previews/622/draft-en-660c051c4b14.mp4",
+    "zh": "https://motiongit.com/@prism-studio/visual-art-h-kaleido?lang=zh",
+    "poster": "https://motiongit.com/media/covers/622/draft-zh-f09b29170a66.jpg"
+  },
+  "materials": [
+    {
+      "en": "Photos: images, 2 items. Use images you own or have permission to use.",
+      "zh": "Photos：图片，2 项。",
+      "required": true
+    },
+    {
+      "en": "Title: text, up to 80 characters.",
+      "zh": "Title：文字，不超过 80 个字符。",
+      "required": true
+    },
+    {
+      "en": "Titleen: text, up to 80 characters.",
+      "zh": "Titleen：文字，不超过 80 个字符。",
+      "required": true
+    },
+    {
+      "en": "Sub: text, up to 80 characters.",
+      "zh": "Sub：文字，不超过 80 个字符。",
+      "required": true
+    },
+    {
+      "en": "Segments: integer.",
+      "zh": "Segments：integer。",
+      "required": true
+    },
+    {
+      "en": "Ring: text, up to 7 characters.",
+      "zh": "Ring：文字，不超过 7 个字符。",
+      "required": true
+    }
+  ],
+  "dependencies": [
+    {
+      "en": "The package declares a Python and Node.js host. Check its dependency lock for supported versions and any additional rendering tools.",
+      "zh": "模板声明使用 Python 和 Node.js。具体工具与版本以下载包为准。"
+    },
+    {
+      "en": "Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.",
+      "zh": "按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。"
+    }
+  ],
+  "goodFor": {
+    "en": [
+      "Make the user's photos into the existing visual composition; retain every original effect and time cue."
+    ],
+    "zh": [
+      "Make the user's photos into the existing visual composition; retain every original effect and time cue."
+    ]
+  },
+  "boundaries": {
+    "en": [
+      "The documented output is 1920 × 1080, 60 fps; default demo duration is 13 seconds.",
+      "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
+      "Arbitrary portrait output or scene rearrangement without a separately adapted design."
+    ],
+    "zh": [
+      "已声明输出为 1920 × 1080，60 fps；默认样片 13 秒。",
+      "按实际包的参数边界制作；增加素材不会自动增加场景。"
+    ]
+  },
+  "capabilities": [
+    {
+      "en": "Optional services require a live catalog, template slot and account check before they can be confirmed.",
+      "zh": "配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。",
+      "status": "check-live"
+    }
+  ]
+}
