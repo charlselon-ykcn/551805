@@ -4,7 +4,7 @@
 
 将两张照片镜像成旋转的十二分段万花筒，经扩张圆环转场再展开原图，适合视觉主题片。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.5.1** · [@prism-studio](https://motiongit.com/@prism-studio) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.5.3** · [@prism-studio](https://motiongit.com/@prism-studio) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@prism-studio/visual-art-h-kaleido)**
 https://motiongit.com/@prism-studio/visual-art-h-kaleido
