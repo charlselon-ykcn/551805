@@ -3,7 +3,7 @@
 Mirror two photos into a rotating twelve-segment kaleidoscope, transition through expanding rings and unfold the originals.
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-h-kaleido
-Version: 2.5.5
+Version: 2.6.0
 Download available; current terms are listed with the package.
 
 ## Technical reference
